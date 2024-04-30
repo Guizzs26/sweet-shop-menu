@@ -1,6 +1,6 @@
-<h1>Sweet Treats React Project</h1>
+<h1>Sweet French Shop React Project</h1>
 <p>
-  This is a static project (without state) for a sweet treats sales.
+  This is a static project (without state) for a sweet menu shop.
 </p>
 
 <h2>What I Learned</h2>
