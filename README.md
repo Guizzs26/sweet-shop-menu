@@ -1,8 +1,27 @@
-# React + Vite
+<h1>Sweet Treats React Project</h1>
+<p>
+  This is a static project (without state) for a sweet treats sales.
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>What I Learned</h2>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<ul>
+  <li>
+    With this project, I learned how to break the UI into smaller and reusable components.
+  </li>
+  <li>
+    I learned how to render lists using the map method and about conditional rendering with the ternary operator, && operator, and early return conditional.
+  </li>
+  <li>
+    I learned about JSX in practice.
+  </li>
+  <li>
+    I learned about passing props to child components (one-way data flow and immutability of props) and also destructuring these props.
+  </li>
+  <li>
+    I learned about separation of concerns and some ways of styling the React application with CSS.
+  </li>
+  <li>
+    Finally, I also used React Fragments in practice.
+  </li>
+</ul>
